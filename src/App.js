@@ -29,31 +29,36 @@ function App () {
       </div>
 
       <div className="Habilidades Tecnicas">
+        <h3>Habilidades Tecnicas</h3>
         <br></br>
-        <p className="enlinea derecha"> Lenguajes de programación: Python, Java</p>
+        <p className="centrado"> Lenguajes de programación: Python, Java</p>
         <br></br>
-        <p className="enlinea derecha"> Desarrollo web: HTML, CSS, JavaScript</p>
-        <p className="enlinea derecha">Bases de datos: MySQL, SQLite</p>
+        <p className="centrado"> Desarrollo web: HTML, CSS, JavaScript</p>
+        <p className="centrado">Bases de datos: MySQL, SQLite</p>
         <br></br>
-        <p className="enlinea derecha">Herramientas: Git, VS Code</p>
+        <p className="centrado">Herramientas: Git, VS Code</p>
         <br></br>
       </div>
 
       <div classname="Idiomas">
+        <br></br>
+        <p className="centrado">Idiomas</p>
       <br></br>
-      <p className="enlinea derecha"> Español — Nativo</p>
+      <p className="centrado"> Español — Nativo</p>
       <br></br>
-      <p className="enlinea derecha">Inglés — Intermedio</p>
+      <p className="centrado">Inglés — Intermedio</p>
       <br></br>
       </div>
       
       <div className="Datos de interes">
+        <br></br>
+        <p className="centrado">DATOS DE INTERES</p>
       <br></br>
-      <p>Disponibilidad para prácticas o proyectos escolares</p>
+      <p className="centrado">Disponibilidad para prácticas o proyectos escolares</p>
       <br></br>
-      <p>Facilidad de trabajo en equipo</p>
+      <p className="centrado">Facilidad de trabajo en equipo</p>
       <br></br>
-      <p>Interés en ciberseguridad, desarrollo web y automatización</p>
+      <p className="centrado">Interés en ciberseguridad, desarrollo web y automatización</p>
       <br></br>
       </div>
     </div>  
