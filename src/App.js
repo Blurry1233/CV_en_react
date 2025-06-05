@@ -29,14 +29,18 @@ function App () {
       </div>
 
       <div className="Habilidades Tecnicas">
+        <br></br>
         <p className="enlinea derecha"> Lenguajes de programación: Python, Java</p>
+        <br></br>
         <p className="enlinea derecha"> Desarrollo web: HTML, CSS, JavaScript</p>
         <p className="enlinea derecha">Bases de datos: MySQL, SQLite</p>
+        <br></br>
         <p className="enlinea derecha">Herramientas: Git, VS Code</p>
+        <br></br>
       </div>
 
       <div classname="Idiomas">
-        <br></br>
+      <br></br>
       <p className="enlinea derecha"> Español — Nativo</p>
       <br></br>
       <p className="enlinea derecha">Inglés — Intermedio</p>
