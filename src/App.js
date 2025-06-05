@@ -29,7 +29,7 @@ function App () {
       </div>
 
       <div className="Habilidades Tecnicas">
-        <h3>Habilidades Tecnicas</h3>
+        <h3 className='centrado'>Habilidades Tecnicas</h3>
         <br></br>
         <p className="centrado"> Lenguajes de programación: Python, Java</p>
         <br></br>
