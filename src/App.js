@@ -34,7 +34,7 @@ function App () {
         <p className="centrado"> Lenguajes de programación: Python, Java</p>
         <br></br>
         <p className="centrado"> Desarrollo web: HTML, CSS, JavaScript</p>
-        <p className="centrado">Bases de datos: MySQL, SQLite</p>
+        <p className="centrado">Bases de datos: MySQL</p>
         <br></br>
         <p className="centrado">Herramientas: Git, VS Code</p>
         <br></br>
